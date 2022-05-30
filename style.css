@@ -1,0 +1,72 @@
+.logo{
+    height: 5%;
+    width: 15%;
+}
+.new-button{
+    background-image: linear-gradient(to bottom, lightgreen, green);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+}
+.next-button{
+    background-image: linear-gradient(to bottom, lightgreen, green);
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 40px;
+}
+.bg-color{
+    background-color: rgb(203, 255, 238);
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.images{
+    height: 30%;
+    width: 30%;
+}
+.categories{
+    margin-top: 50px;
+}
+.boxes{
+    margin-left: 15%;
+    height: 200px;
+    width: 250px;
+    padding: 10px 40px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    border-radius: 10px;
+}
+.new-card, .testimonial{
+    margin-top: 50px;
+}
+.online, .testimonial{
+    margin-bottom: 50px;
+}
+.short{
+    height: 20px;
+    width: 20px;
+}
+.man{
+    height: 150px;
+    width: 150px;
+    float: center;
+}
+.my-man{
+    align-items: center;
+    column-gap: 30px;
+    padding: 100px 220px;
+}
+.new-bg-color{
+    background-color: rgb(36, 0, 83);
+    height: 400px;
+    color: aliceblue;
+}
+.cat1{
+    padding-top: 80px;
+    padding-left: 50px;
+}
+span{
+    color: green;
+}
