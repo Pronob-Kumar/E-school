@@ -51,7 +51,6 @@
 .man{
     height: 150px;
     width: 150px;
-    float: center;
 }
 .my-man{
     align-items: center;
@@ -66,6 +65,7 @@
 .cat1{
     padding-top: 80px;
     padding-left: 50px;
+
 }
 span{
     color: green;
